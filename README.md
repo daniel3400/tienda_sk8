@@ -1,2 +1,2 @@
 # tienda_sk8
-esta es mi tienda online 
+Este este priyecto es una tienda virtual de productos deportivos relacionados con el skateboarding 
